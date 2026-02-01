@@ -57,7 +57,7 @@ const projects: Project[] = [
     description:
       'A unified learning platform making studying deeply interactive, personalized, and effective. Features that transform traditional learning into an engaging experience.',
     tags: ['Next.js', 'React', 'Tailwind', 'EdTech'],
-    live: 'https://usestudly.com/',
+    live: 'https://studly-web.vercel.app/',
     color: 'emerald',
   },
   {
